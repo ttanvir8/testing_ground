@@ -1,2 +1,8 @@
 new/
 spaced_repetition/
+*.json
+*.md
+*.csv
+*.txt
+/adk-samples/
+*.html
